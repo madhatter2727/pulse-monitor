@@ -1,0 +1,18 @@
+# Build outputs
+.build/
+build/
+*.app
+DerivedData/
+*.dSYM
+node_modules/
+.DS_Store
+# Large media
+*.mov
+*.mp4
+shots-polish/
+# Secrets
+.env*
+*.pem
+*.key
+*secret*
+*token*
